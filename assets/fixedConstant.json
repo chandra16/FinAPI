@@ -1,0 +1,14 @@
+{
+    "danonUserCode": "danongiro",
+    "danonBankName": "BANK BNI",
+    "danonGiroNo": "0115476117",
+    "danonEscrowNo": "114487109",
+    "danonFullName": "DANON",
+    "danonAddress1": "Neo Soho Residence lt 18 03",
+    "danonAddress2": "Jl Letjen S Parman Street No Kav 28",
+    "danonBankCode": "009",
+    "danonClearingCode": "90010",
+    "danonRtgsCode": "BNINIDJA",
+    "digi-emailAdmin": "admin_dev@danon.id",
+    "digi-paymentType": "3"
+}

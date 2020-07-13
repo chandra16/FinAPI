@@ -1,0 +1,64 @@
+{
+  "name": "danon-api",
+  "version": "1.0.0",
+  "description": "RESTful API for DANON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "eslint server",
+    "start": "eslint server && nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://202.182.55.134:8101/danon-dev/web-api"
+  },
+  "keywords": [
+    "danon",
+    "RESTful",
+    "api"
+  ],
+  "author": "budidao",
+  "license": "ISC",
+  "homepage": "http://202.182.55.134:8101/danon-dev/web-api#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "blipp": "^3.0.0",
+    "boom": "^7.2.0",
+    "brew": "0.0.8",
+    "confidence": "^3.0.2",
+    "docx-pdf": "^0.0.1",
+    "docxtemplater": "^3.9.9",
+    "eslint-config-hapi": "^12.0.0",
+    "eslint-plugin-hapi": "^4.1.0",
+    "glue": "^5.0.0",
+    "good": "^8.1.1",
+    "good-console": "^7.1.0",
+    "good-file": "^6.0.1",
+    "good-squeeze": "^5.1.0",
+    "hapi": "^17.6.0",
+    "hapi-auth-jwt2": "^8.1.0",
+    "hapi-swagger": "^9.1.1",
+    "hoek": "^5.0.4",
+    "i": "^0.3.6",
+    "inert": "^5.1.2",
+    "joi": "^13.7.0",
+    "json2xls": "^0.1.2",
+    "jsonwebtoken": "^8.3.0",
+    "jszip": "2",
+    "lodash": "^4.17.11",
+    "mailgun-js": "^0.22.0",
+    "mariadb": "^2.0.0-alpha",
+    "npm": "^6.10.2",
+    "request": "^2.88.0",
+    "vision": "^5.4.0",
+    "winston": "^3.1.0",
+    "word2pdf": "^0.0.1-security",
+    "xlsx": "^0.14.4",
+    "xlsx-template": "^0.5.0",
+    "yarn": "^1.10.1"
+  }
+}

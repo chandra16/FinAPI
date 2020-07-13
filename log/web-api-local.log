@@ -1,0 +1,799 @@
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-16 17:10:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"timeTaken\":64}","timestamp":"2019-07-16 17:10:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":1}","timestamp":"2019-07-16 17:10:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":187}","timestamp":"2019-07-16 17:10:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-16 17:10:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-17 10:06:22"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":5}","timestamp":"2019-07-17 10:06:22"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"timeTaken\":11}","timestamp":"2019-07-17 10:06:22"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":77}","timestamp":"2019-07-17 10:06:22"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-17 10:06:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":143}","timestamp":"2019-07-17 10:46:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":132}","timestamp":"2019-07-17 10:51:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":103}","timestamp":"2019-07-17 10:55:05"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:39:15"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:45:38"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:47:00"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:49:54"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:51:56"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:53:04"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:55:24"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:56:41"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 11:59:50"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:01:27"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:02:54"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:11:31"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:12:14"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:15:15"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:16:54"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:17:10"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:17:45"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:19:45"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:22:36"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:23:33"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 12:25:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/update-data-reporting-every-day\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-17 12:26:31"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 13:53:02"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 13:53:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/update-data-reporting-every-day\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-17 13:54:34"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 15:10:08"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 15:14:41"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 15:15:55"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-17 15:17:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/update-data-reporting-every-day\",\"status\":200,\"timeTaken\":38}","timestamp":"2019-07-17 15:18:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"timeTaken\":40}","timestamp":"2019-07-18 12:01:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":22}","timestamp":"2019-07-18 12:01:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":77}","timestamp":"2019-07-18 12:01:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-18 12:01:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":33}","timestamp":"2019-07-19 10:53:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":24}","timestamp":"2019-07-19 11:05:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":24}","timestamp":"2019-07-19 11:06:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":8}","timestamp":"2019-07-19 11:08:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":27}","timestamp":"2019-07-19 11:08:34"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 11:16:32"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 11:19:34"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 11:21:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-19 11:24:10"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-19 11:24:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-19 11:27:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-19 11:27:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-19 11:28:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":136}","timestamp":"2019-07-19 14:42:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":129}","timestamp":"2019-07-19 14:43:54"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 14:47:05"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 14:48:25"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 14:51:35"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-19 14:54:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/update-data-reporting-every-day\",\"status\":200,\"timeTaken\":58}","timestamp":"2019-07-19 16:03:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":119}","timestamp":"2019-07-19 16:04:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":109}","timestamp":"2019-07-19 16:05:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-19 16:06:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-22 10:54:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"timeTaken\":10}","timestamp":"2019-07-22 10:54:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":12}","timestamp":"2019-07-22 10:54:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":140}","timestamp":"2019-07-22 10:54:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-22 10:54:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":56}","timestamp":"2019-07-22 14:52:48"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-22 14:53:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":34}","timestamp":"2019-07-22 15:07:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-22 15:08:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/register-borrower\",\"timeTaken\":41}","timestamp":"2019-07-24 21:51:15"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/register-borrower\",\"timeTaken\":5}","timestamp":"2019-07-24 21:58:10"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/register-borrower\",\"timeTaken\":1}","timestamp":"2019-07-24 21:58:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/verify-email\",\"timeTaken\":129}","timestamp":"2019-07-25 11:44:32"}
+{"level":"info","message":"loadTemplate : investor_registration_verification.html","timestamp":"2019-07-25 11:56:47"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/resend-email\",\"status\":200,\"timeTaken\":2089}","timestamp":"2019-07-25 11:56:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/resend-email\",\"timeTaken\":4}","timestamp":"2019-07-25 11:58:44"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":50}","timestamp":"2019-07-25 12:41:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":3}","timestamp":"2019-07-25 12:43:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login?=\",\"timeTaken\":3}","timestamp":"2019-07-25 12:43:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login?=\",\"timeTaken\":3}","timestamp":"2019-07-25 12:44:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":48}","timestamp":"2019-07-25 12:45:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-25 12:47:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-25 12:51:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":1}","timestamp":"2019-07-25 12:51:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/logout\",\"timeTaken\":9}","timestamp":"2019-07-25 12:51:48"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564033863,"exp":1564044663,"level":"info","message":"decoded","timestamp":"2019-07-25 12:52:51"}
+{"received":1564033971669,"remoteAddress":"127.0.0.1","remotePort":62319,"referrer":"","host":"localhost:3000","hostname":"localhost","id":"1564033971669:DANONs-MacBook-Pro-2.local:3290:jygrxnyt:10015","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-25 12:52:51"}
+{"level":"info","message":"request header user-agent: PostmanRuntime/7.15.0","timestamp":"2019-07-25 12:52:51"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564033863,"exp":1564044663,"level":"info","message":"expired date: 1564044663000","timestamp":"2019-07-25 12:52:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/logout\",\"status\":200,\"timeTaken\":42}","timestamp":"2019-07-25 12:52:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/forget-password\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-25 12:59:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/forget-password\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-25 13:00:11"}
+{"level":"info","message":"loadTemplate : forget_password_tamplate.html","timestamp":"2019-07-25 13:00:58"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-25 13:00:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/forget-password\",\"status\":200,\"timeTaken\":1748}","timestamp":"2019-07-25 13:01:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/update-password\",\"status\":200,\"timeTaken\":32}","timestamp":"2019-07-25 13:07:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/update-password\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-25 13:08:15"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/update-password\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-25 13:09:02"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/update-password\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-25 13:10:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"timeTaken\":4}","timestamp":"2019-07-25 13:44:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-25 13:44:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"timeTaken\":1}","timestamp":"2019-07-25 13:58:36"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/update-dashboard-json-file\",\"status\":200,\"timeTaken\":38}","timestamp":"2019-07-25 14:02:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-25 14:02:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"timeTaken\":4}","timestamp":"2019-07-25 14:03:13"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/update-dashboard-json-file\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-25 14:03:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-25 14:03:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/update-dashboard-json-file\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-25 14:07:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/kyc/get-data-kyc-validation-detail\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-25 15:03:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/kyc/get-data-kyc-validation-detail\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-25 15:04:28"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/register-auth\",\"status\":200,\"timeTaken\":172}","timestamp":"2019-07-26 11:58:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":151}","timestamp":"2019-07-27 11:42:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-27 15:47:11"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 17:02:32"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 17:03:48"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 18:26:25"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 18:27:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-27 18:30:48"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":56}","timestamp":"2019-07-27 18:31:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":43}","timestamp":"2019-07-27 18:31:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":40}","timestamp":"2019-07-27 18:32:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":37}","timestamp":"2019-07-27 18:33:47"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":44}","timestamp":"2019-07-27 18:34:48"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":43}","timestamp":"2019-07-27 18:37:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-27 18:40:50"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 18:40:50"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-27 18:41:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":34}","timestamp":"2019-07-27 18:42:45"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 18:42:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-27 18:44:47"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 18:44:47"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 18:50:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":97}","timestamp":"2019-07-27 19:00:57"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:00:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":42}","timestamp":"2019-07-27 19:02:10"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:02:10"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-27 19:02:31"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:02:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-27 19:03:41"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:03:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-27 19:06:36"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:06:36"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":37}","timestamp":"2019-07-27 19:33:09"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:33:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-27 19:48:57"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:48:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-27 19:52:20"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 19:52:20"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":42}","timestamp":"2019-07-27 20:23:03"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 20:23:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":58}","timestamp":"2019-07-27 20:34:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":41}","timestamp":"2019-07-27 20:34:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":36}","timestamp":"2019-07-27 20:35:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":32}","timestamp":"2019-07-27 20:35:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":45}","timestamp":"2019-07-27 20:36:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":39}","timestamp":"2019-07-27 20:38:13"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 20:38:13"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":90}","timestamp":"2019-07-27 20:39:35"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":165}","timestamp":"2019-07-27 20:39:53"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":91}","timestamp":"2019-07-27 20:46:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-27 20:50:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":43}","timestamp":"2019-07-27 20:51:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":37}","timestamp":"2019-07-27 21:12:53"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 21:12:53"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-27 21:13:25"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 21:13:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-27 21:16:23"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 21:16:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-27 21:19:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-27 21:25:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/update-data-reporting-every-day\",\"status\":200,\"timeTaken\":61}","timestamp":"2019-07-27 21:26:43"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-27 21:26:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":12}","timestamp":"2019-07-27 21:27:06"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 21:27:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-27 21:30:13"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-27 21:30:13"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-27 21:30:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-27 21:31:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":54}","timestamp":"2019-07-28 13:43:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":30}","timestamp":"2019-07-28 13:43:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":17}","timestamp":"2019-07-28 13:43:42"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-28 15:52:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":19}","timestamp":"2019-07-28 15:52:56"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-28 15:53:47"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":19}","timestamp":"2019-07-28 15:53:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-28 15:55:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":5}","timestamp":"2019-07-28 16:13:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-28 16:14:35"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-28 16:20:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-28 16:21:27"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-28 16:21:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-28 16:21:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-28 16:21:36"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-28 16:21:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-28 16:21:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-28 16:21:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-28 16:21:48"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-28 16:21:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-28 16:21:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-28 16:21:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-28 16:22:02"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-29 00:53:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":53}","timestamp":"2019-07-29 07:49:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":4}","timestamp":"2019-07-29 07:50:15"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-29 07:50:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":4}","timestamp":"2019-07-29 07:51:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-29 07:51:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":11}","timestamp":"2019-07-29 07:51:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":37}","timestamp":"2019-07-29 07:53:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-29 07:53:22"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":35}","timestamp":"2019-07-29 08:14:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":42}","timestamp":"2019-07-29 08:14:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":33}","timestamp":"2019-07-29 08:16:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":39}","timestamp":"2019-07-29 08:17:19"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":40}","timestamp":"2019-07-29 08:17:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":40}","timestamp":"2019-07-29 08:18:26"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":41}","timestamp":"2019-07-29 08:18:47"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":38}","timestamp":"2019-07-29 08:19:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/Documents/danon/reporting/formulir_3B_2019.xlsx\",\"timeTaken\":1}","timestamp":"2019-07-29 08:19:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":42}","timestamp":"2019-07-29 08:20:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":14}","timestamp":"2019-07-29 08:20:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":40}","timestamp":"2019-07-29 08:21:07"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":37}","timestamp":"2019-07-29 08:23:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":14}","timestamp":"2019-07-29 08:28:36"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":401}","timestamp":"2019-07-29 08:29:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":99}","timestamp":"2019-07-29 08:29:54"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 08:42:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":63}","timestamp":"2019-07-29 08:42:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":20}","timestamp":"2019-07-29 08:42:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":46}","timestamp":"2019-07-29 08:42:58"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":2}","timestamp":"2019-07-29 08:42:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":371}","timestamp":"2019-07-29 08:43:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 08:43:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":43}","timestamp":"2019-07-29 08:43:10"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:43:11"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364590,"exp":1564375390,"level":"info","message":"decoded","timestamp":"2019-07-29 08:43:11"}
+{"received":1564364591167,"remoteAddress":"127.0.0.1","remotePort":61943,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564364591167:DANONs-MacBook-Pro-2.local:4405:jynptshx:10021","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:43:11"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364590,"exp":1564375390,"level":"info","message":"expired date: 1564375390000","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":34}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":31}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":50}","timestamp":"2019-07-29 08:43:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":40}","timestamp":"2019-07-29 08:43:11"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364590,"exp":1564375390,"level":"info","message":"decoded","timestamp":"2019-07-29 08:44:08"}
+{"received":1564364648024,"remoteAddress":"127.0.0.1","remotePort":61954,"referrer":"http://127.0.0.1:4200/admin/create/new-admin","host":"localhost:3000","hostname":"localhost","id":"1564364648024:DANONs-MacBook-Pro-2.local:4405:jynptshx:10023","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:44:08"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:44:08"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364590,"exp":1564375390,"level":"info","message":"expired date: 1564375390000","timestamp":"2019-07-29 08:44:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 08:44:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":16}","timestamp":"2019-07-29 08:44:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/logout\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:44:17"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364590,"exp":1564375390,"level":"info","message":"decoded","timestamp":"2019-07-29 08:44:17"}
+{"received":1564364657223,"remoteAddress":"127.0.0.1","remotePort":61956,"referrer":"http://127.0.0.1:4200/admin/create/new-admin","host":"localhost:3000","hostname":"localhost","id":"1564364657223:DANONs-MacBook-Pro-2.local:4405:jynptshx:10026","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:44:17"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:44:17"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364590,"exp":1564375390,"level":"info","message":"expired date: 1564375390000","timestamp":"2019-07-29 08:44:17"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/logout\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 08:44:17"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 08:44:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 08:44:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":1}","timestamp":"2019-07-29 08:44:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-29 08:44:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":5}","timestamp":"2019-07-29 08:44:22"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":485}","timestamp":"2019-07-29 08:44:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":2}","timestamp":"2019-07-29 08:44:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 08:45:02"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":14}","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 08:45:03"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"decoded","timestamp":"2019-07-29 08:45:03"}
+{"received":1564364703754,"remoteAddress":"127.0.0.1","remotePort":61981,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564364703754:DANONs-MacBook-Pro-2.local:4405:jynptshx:10040","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:45:03"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"expired date: 1564375502000","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":17}","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":21}","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":32}","timestamp":"2019-07-29 08:45:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-29 08:45:03"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"decoded","timestamp":"2019-07-29 08:45:05"}
+{"received":1564364705774,"remoteAddress":"127.0.0.1","remotePort":61977,"referrer":"http://127.0.0.1:4200/admin/create/new-admin","host":"localhost:3000","hostname":"localhost","id":"1564364705774:DANONs-MacBook-Pro-2.local:4405:jynptshx:10042","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:45:05"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:45:05"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"expired date: 1564375502000","timestamp":"2019-07-29 08:45:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 08:45:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":19}","timestamp":"2019-07-29 08:45:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/create-admin\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:45:29"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"decoded","timestamp":"2019-07-29 08:45:29"}
+{"received":1564364729053,"remoteAddress":"127.0.0.1","remotePort":61986,"referrer":"http://127.0.0.1:4200/admin/create/new-admin","host":"localhost:3000","hostname":"localhost","id":"1564364729053:DANONs-MacBook-Pro-2.local:4405:jynptshx:10045","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:45:29"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:45:29"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"expired date: 1564375502000","timestamp":"2019-07-29 08:45:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/create-admin\",\"timeTaken\":7}","timestamp":"2019-07-29 08:45:29"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"decoded","timestamp":"2019-07-29 08:45:49"}
+{"received":1564364749053,"remoteAddress":"127.0.0.1","remotePort":61988,"referrer":"http://127.0.0.1:4200/admin/create/new-admin","host":"localhost:3000","hostname":"localhost","id":"1564364749053:DANONs-MacBook-Pro-2.local:4405:jynptshx:10046","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:45:49"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:45:49"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"expired date: 1564375502000","timestamp":"2019-07-29 08:45:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/create-admin\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-29 08:45:49"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"decoded","timestamp":"2019-07-29 08:45:52"}
+{"received":1564364752147,"remoteAddress":"127.0.0.1","remotePort":61988,"referrer":"http://127.0.0.1:4200/admin/create/new-admin","host":"localhost:3000","hostname":"localhost","id":"1564364752147:DANONs-MacBook-Pro-2.local:4405:jynptshx:10047","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:45:52"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:45:52"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564364702,"exp":1564375502,"level":"info","message":"expired date: 1564375502000","timestamp":"2019-07-29 08:45:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/logout\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-29 08:45:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 08:45:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 08:45:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":0}","timestamp":"2019-07-29 08:45:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-29 08:45:53"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":134}","timestamp":"2019-07-29 08:46:07"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":2}","timestamp":"2019-07-29 08:46:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":2}","timestamp":"2019-07-29 08:46:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-29 08:46:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-29 08:46:32"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:46:32"}
+{"received":1564364792541,"remoteAddress":"127.0.0.1","remotePort":62012,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564364792541:DANONs-MacBook-Pro-2.local:4405:jynptshx:10061","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:46:32"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-29 08:46:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 08:46:55"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:46:55"}
+{"received":1564364815315,"remoteAddress":"127.0.0.1","remotePort":62030,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564364815315:DANONs-MacBook-Pro-2.local:4405:jynptshx:10068","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:46:55"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":17}","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":20}","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":27}","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-29 08:46:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":24}","timestamp":"2019-07-29 08:46:55"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:47:08"}
+{"received":1564364828465,"remoteAddress":"127.0.0.1","remotePort":62041,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564364828465:DANONs-MacBook-Pro-2.local:4405:jynptshx:10070","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:47:08"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":38}","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":32}","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":57}","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":75}","timestamp":"2019-07-29 08:47:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-29 08:47:08"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:47:16"}
+{"received":1564364836474,"remoteAddress":"127.0.0.1","remotePort":62055,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564364836474:DANONs-MacBook-Pro-2.local:4405:jynptshx:10077","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:47:16"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:47:16"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:47:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 08:47:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 08:47:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 08:47:35"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":1}","timestamp":"2019-07-29 08:47:35"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":11}","timestamp":"2019-07-29 08:48:12"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:53:06"}
+{"received":1564365186674,"remoteAddress":"127.0.0.1","remotePort":62135,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564365186674:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10002","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:53:06"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:53:06"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:53:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":113}","timestamp":"2019-07-29 08:53:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":145}","timestamp":"2019-07-29 08:53:06"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:53:42"}
+{"received":1564365222259,"remoteAddress":"127.0.0.1","remotePort":62145,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564365222259:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10003","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:53:42"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:53:42"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:53:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":14}","timestamp":"2019-07-29 08:53:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-29 08:53:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-29 08:53:53"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":3}","timestamp":"2019-07-29 08:53:53"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":1}","timestamp":"2019-07-29 08:54:07"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":138}","timestamp":"2019-07-29 08:54:28"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":22}","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":26}","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":31}","timestamp":"2019-07-29 08:54:38"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:54:38"}
+{"received":1564365278892,"remoteAddress":"127.0.0.1","remotePort":62154,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564365278892:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10014","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:54:38"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":85}","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":104}","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":21}","timestamp":"2019-07-29 08:54:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":86}","timestamp":"2019-07-29 08:54:38"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 08:54:41"}
+{"received":1564365281631,"remoteAddress":"127.0.0.1","remotePort":62157,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564365281631:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10016","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 08:54:41"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 08:54:41"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 08:54:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":17}","timestamp":"2019-07-29 08:54:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-29 08:54:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":39}","timestamp":"2019-07-29 08:54:54"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:00:59"}
+{"received":1564365659520,"remoteAddress":"127.0.0.1","remotePort":62188,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564365659520:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10019","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:00:59"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:00:59"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:00:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-29 09:00:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":52}","timestamp":"2019-07-29 09:00:59"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:01:05"}
+{"received":1564365665291,"remoteAddress":"127.0.0.1","remotePort":62191,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564365665291:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10021","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:01:05"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:01:05"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:01:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-29 09:01:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-29 09:01:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-29 09:01:17"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:11:57"}
+{"received":1564366317586,"remoteAddress":"127.0.0.1","remotePort":62305,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564366317586:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10024","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:11:57"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:11:57"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:11:57"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 09:11:57"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":42}","timestamp":"2019-07-29 09:11:57"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":5}","timestamp":"2019-07-29 09:12:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":77}","timestamp":"2019-07-29 09:12:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":14}","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":26}","timestamp":"2019-07-29 09:13:09"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:13:09"}
+{"received":1564366389572,"remoteAddress":"127.0.0.1","remotePort":62326,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564366389572:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10032","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:13:09"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":23}","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":16}","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-29 09:13:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":7}","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 09:17:04"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:17:04"}
+{"received":1564366624159,"remoteAddress":"127.0.0.1","remotePort":62357,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564366624159:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10040","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:17:04"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 09:17:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-29 09:17:04"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:18:23"}
+{"received":1564366703526,"remoteAddress":"127.0.0.1","remotePort":62371,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564366703526:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10042","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:18:23"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:18:23"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:18:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":19}","timestamp":"2019-07-29 09:18:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-29 09:18:23"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":3}","timestamp":"2019-07-29 09:18:32"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:24:26"}
+{"received":1564367066190,"remoteAddress":"127.0.0.1","remotePort":62412,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564367066190:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10045","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:24:26"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:24:26"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:24:26"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-29 09:24:26"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":31}","timestamp":"2019-07-29 09:24:26"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":63}","timestamp":"2019-07-29 09:25:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":27}","timestamp":"2019-07-29 09:25:43"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:25:49"}
+{"received":1564367149203,"remoteAddress":"127.0.0.1","remotePort":62429,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564367149203:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10049","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:25:49"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:25:49"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:25:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 09:25:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 09:25:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":124}","timestamp":"2019-07-29 09:26:02"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:37:56"}
+{"received":1564367876203,"remoteAddress":"127.0.0.1","remotePort":62489,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564367876203:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10053","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:37:56"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:37:56"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:37:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":59}","timestamp":"2019-07-29 09:37:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":78}","timestamp":"2019-07-29 09:37:56"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:38:02"}
+{"received":1564367882025,"remoteAddress":"127.0.0.1","remotePort":62493,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564367882025:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10054","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:38:02"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:38:02"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:38:02"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-29 09:38:02"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-29 09:38:02"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":157}","timestamp":"2019-07-29 09:38:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":27}","timestamp":"2019-07-29 09:39:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":14}","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-29 09:39:14"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:39:14"}
+{"received":1564367954967,"remoteAddress":"127.0.0.1","remotePort":62506,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564367954967:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10063","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:39:14"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-29 09:39:14"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 09:39:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 09:39:16"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:39:16"}
+{"received":1564367956449,"remoteAddress":"127.0.0.1","remotePort":62506,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564367956449:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10067","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:39:16"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:39:16"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:39:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 09:39:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":18}","timestamp":"2019-07-29 09:39:16"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:45:27"}
+{"received":1564368327471,"remoteAddress":"127.0.0.1","remotePort":62535,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564368327471:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10070","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:45:27"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:45:27"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:45:27"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":14}","timestamp":"2019-07-29 09:45:27"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":17}","timestamp":"2019-07-29 09:45:27"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:45:29"}
+{"received":1564368329704,"remoteAddress":"127.0.0.1","remotePort":62535,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564368329704:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10071","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:45:29"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:45:29"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:45:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 09:45:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":12}","timestamp":"2019-07-29 09:45:29"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":57}","timestamp":"2019-07-29 09:45:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":29}","timestamp":"2019-07-29 09:46:04"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 09:50:46"}
+{"received":1564368646765,"remoteAddress":"127.0.0.1","remotePort":62554,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564368646765:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10075","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 09:50:46"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 09:50:46"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 09:50:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":49}","timestamp":"2019-07-29 09:50:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":75}","timestamp":"2019-07-29 09:50:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":45}","timestamp":"2019-07-29 10:10:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/%20formulir_3B_7_2019.xlsx\",\"timeTaken\":3}","timestamp":"2019-07-29 10:10:59"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 10:11:34"}
+{"received":1564369894827,"remoteAddress":"127.0.0.1","remotePort":62628,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564369894827:DANONs-MacBook-Pro-2.local:4487:jynqgp05:10079","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 10:11:34"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 10:11:34"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 10:11:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 10:11:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-29 10:11:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":157}","timestamp":"2019-07-29 10:11:43"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3B_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 10:11:45"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-29 10:45:52"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 11:13:44"}
+{"received":1564373624195,"remoteAddress":"127.0.0.1","remotePort":63178,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564373624195:DANONs-MacBook-Pro-2.local:5059:jynvgygt:10001","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 11:13:44"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 11:13:44"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 11:13:44"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":78}","timestamp":"2019-07-29 11:13:44"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":179}","timestamp":"2019-07-29 11:13:44"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-29 11:19:15"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-29 11:22:11"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-29 11:24:26"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"decoded","timestamp":"2019-07-29 11:25:25"}
+{"received":1564374325051,"remoteAddress":"127.0.0.1","remotePort":63394,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564374325051:DANONs-MacBook-Pro-2.local:5160:jynw0af0:10001","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 11:25:25"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 11:25:25"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":4,"iat":1564364791,"exp":1564375591,"level":"info","message":"expired date: 1564375591000","timestamp":"2019-07-29 11:25:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":59}","timestamp":"2019-07-29 11:25:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":191}","timestamp":"2019-07-29 11:25:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":135}","timestamp":"2019-07-29 11:26:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-29 11:27:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-29 11:31:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":33}","timestamp":"2019-07-29 11:32:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":27}","timestamp":"2019-07-29 11:32:38"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":32}","timestamp":"2019-07-29 11:33:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":31}","timestamp":"2019-07-29 11:34:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-29 11:35:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":22}","timestamp":"2019-07-29 11:39:28"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":14}","timestamp":"2019-07-29 11:50:07"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":7}","timestamp":"2019-07-29 11:50:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":6}","timestamp":"2019-07-29 11:51:20"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":77}","timestamp":"2019-07-29 11:53:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"timeTaken\":12}","timestamp":"2019-07-29 11:58:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":103}","timestamp":"2019-07-29 11:58:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-29 11:58:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-29 11:58:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":8}","timestamp":"2019-07-29 11:58:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-29 11:58:42"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":236}","timestamp":"2019-07-29 11:58:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":24}","timestamp":"2019-07-29 11:58:56"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":2}","timestamp":"2019-07-29 11:59:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":4}","timestamp":"2019-07-29 11:59:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-29 11:59:16"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":32}","timestamp":"2019-07-29 11:59:18"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 11:59:18"}
+{"received":1564376358289,"remoteAddress":"127.0.0.1","remotePort":64090,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564376358289:DANONs-MacBook-Pro-2.local:5383:jynx9hvo:10021","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 11:59:18"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":65}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":27}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":30}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":34}","timestamp":"2019-07-29 11:59:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":62}","timestamp":"2019-07-29 11:59:18"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 11:59:25"}
+{"received":1564376365541,"remoteAddress":"127.0.0.1","remotePort":64103,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564376365541:DANONs-MacBook-Pro-2.local:5383:jynx9hvo:10024","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 11:59:25"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 11:59:25"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 11:59:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-29 11:59:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-29 11:59:25"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:08:03"}
+{"received":1564376883022,"remoteAddress":"127.0.0.1","remotePort":64147,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564376883022:DANONs-MacBook-Pro-2.local:5383:jynx9hvo:10025","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:08:03"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:08:03"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:08:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":49}","timestamp":"2019-07-29 12:08:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":95}","timestamp":"2019-07-29 12:08:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":117}","timestamp":"2019-07-29 12:08:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3A_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 12:08:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":177}","timestamp":"2019-07-29 12:08:57"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3B_7_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 12:08:59"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:09:51"}
+{"received":1564376991332,"remoteAddress":"127.0.0.1","remotePort":64218,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564376991332:DANONs-MacBook-Pro-2.local:5428:jynxluu4:10005","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:09:51"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:09:51"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:09:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":31}","timestamp":"2019-07-29 12:09:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":72}","timestamp":"2019-07-29 12:09:51"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:22:54"}
+{"received":1564377774266,"remoteAddress":"127.0.0.1","remotePort":64276,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564377774266:DANONs-MacBook-Pro-2.local:5428:jynxluu4:10007","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:22:54"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:22:54"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:22:54"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-29 12:22:54"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":36}","timestamp":"2019-07-29 12:22:54"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:31:03"}
+{"received":1564378263532,"remoteAddress":"127.0.0.1","remotePort":64309,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564378263532:DANONs-MacBook-Pro-2.local:5428:jynxluu4:10009","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:31:03"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:31:03"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:31:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-29 12:31:03"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":14}","timestamp":"2019-07-29 12:31:03"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:36:49"}
+{"received":1564378609751,"remoteAddress":"127.0.0.1","remotePort":64449,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564378609751:DANONs-MacBook-Pro-2.local:5428:jynxluu4:10010","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:36:49"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:36:49"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:36:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-29 12:36:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":26}","timestamp":"2019-07-29 12:36:49"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:42:51"}
+{"received":1564378971648,"remoteAddress":"127.0.0.1","remotePort":64520,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564378971648:DANONs-MacBook-Pro-2.local:5428:jynxluu4:10012","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:42:51"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:42:51"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:42:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":38}","timestamp":"2019-07-29 12:42:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":56}","timestamp":"2019-07-29 12:42:51"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 12:43:18"}
+{"received":1564378998564,"remoteAddress":"127.0.0.1","remotePort":64530,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564378998564:DANONs-MacBook-Pro-2.local:5428:jynxluu4:10015","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 12:43:18"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 12:43:18"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 12:43:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":4}","timestamp":"2019-07-29 12:43:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":18}","timestamp":"2019-07-29 12:43:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-29 13:03:37"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:03:37"}
+{"received":1564380217587,"remoteAddress":"127.0.0.1","remotePort":64677,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564380217587:DANONs-MacBook-Pro-2.local:5703:jynz8qy1:10001","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:03:37"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:03:37"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:03:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:03:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":53}","timestamp":"2019-07-29 13:03:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-29 13:03:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":124}","timestamp":"2019-07-29 13:06:52"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3A_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:06:55"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":18}","timestamp":"2019-07-29 13:07:04"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3B_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:07:07"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":70}","timestamp":"2019-07-29 13:07:24"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3B_7_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:07:27"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-29 13:25:19"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_7_2019.xlsx\",\"timeTaken\":6}","timestamp":"2019-07-29 13:25:22"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:25:33"}
+{"received":1564381533549,"remoteAddress":"127.0.0.1","remotePort":64947,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564381533549:DANONs-MacBook-Pro-2.local:6208:jyo0coly:10002","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:25:33"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:25:33"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:25:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":18}","timestamp":"2019-07-29 13:25:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":48}","timestamp":"2019-07-29 13:25:33"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:25:44"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_2019.xlsx\",\"timeTaken\":2}","timestamp":"2019-07-29 13:25:47"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:26:20"}
+{"received":1564381579996,"remoteAddress":"127.0.0.1","remotePort":64961,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564381579996:DANONs-MacBook-Pro-2.local:6208:jyo0coly:10006","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:26:20"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:26:20"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:26:20"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":18}","timestamp":"2019-07-29 13:26:20"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":38}","timestamp":"2019-07-29 13:26:20"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:26:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_2019.xlsx\",\"timeTaken\":3}","timestamp":"2019-07-29 13:26:28"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:28:46"}
+{"received":1564381726463,"remoteAddress":"127.0.0.1","remotePort":65030,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564381726463:DANONs-MacBook-Pro-2.local:6233:jyo0hgat:10000","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:28:46"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:28:46"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:28:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":22}","timestamp":"2019-07-29 13:28:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":84}","timestamp":"2019-07-29 13:28:46"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":6}","timestamp":"2019-07-29 13:28:50"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_2019.xlsx\",\"timeTaken\":3}","timestamp":"2019-07-29 13:28:53"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:40:10"}
+{"received":1564382410991,"remoteAddress":"127.0.0.1","remotePort":65078,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564382410991:DANONs-MacBook-Pro-2.local:6233:jyo0hgat:10005","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:40:10"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:40:11"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:40:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":35}","timestamp":"2019-07-29 13:40:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":50}","timestamp":"2019-07-29 13:40:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":4}","timestamp":"2019-07-29 13:40:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_2019.xlsx\",\"timeTaken\":5}","timestamp":"2019-07-29 13:40:21"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:44:39"}
+{"received":1564382679251,"remoteAddress":"127.0.0.1","remotePort":65101,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564382679251:DANONs-MacBook-Pro-2.local:6233:jyo0hgat:10008","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:44:39"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:44:39"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:44:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-29 13:44:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":44}","timestamp":"2019-07-29 13:44:39"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"decoded","timestamp":"2019-07-29 13:44:41"}
+{"received":1564382681437,"remoteAddress":"127.0.0.1","remotePort":65101,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564382681437:DANONs-MacBook-Pro-2.local:6233:jyo0hgat:10010","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-29 13:44:41"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-29 13:44:41"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564376356,"exp":1564387156,"level":"info","message":"expired date: 1564387156000","timestamp":"2019-07-29 13:44:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-29 13:44:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":34}","timestamp":"2019-07-29 13:44:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":21}","timestamp":"2019-07-29 13:44:51"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3B_10_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-29 13:44:54"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":1}","timestamp":"2019-07-29 13:45:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":19}","timestamp":"2019-07-30 10:02:36"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"timeTaken\":47}","timestamp":"2019-07-30 13:56:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"timeTaken\":17}","timestamp":"2019-07-30 13:57:30"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-individu\",\"timeTaken\":45}","timestamp":"2019-07-30 13:58:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"timeTaken\":37}","timestamp":"2019-07-30 14:01:07"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"timeTaken\":40}","timestamp":"2019-07-30 14:02:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"timeTaken\":94}","timestamp":"2019-07-30 14:03:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"status\":200,\"timeTaken\":75}","timestamp":"2019-07-30 14:16:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-individu\",\"timeTaken\":19}","timestamp":"2019-07-30 14:21:37"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-individu\",\"status\":200,\"timeTaken\":103}","timestamp":"2019-07-30 14:22:00"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-individu\",\"status\":200,\"timeTaken\":123}","timestamp":"2019-07-30 15:46:25"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"status\":200,\"timeTaken\":51}","timestamp":"2019-07-30 15:47:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"status\":200,\"timeTaken\":95}","timestamp":"2019-07-30 16:45:01"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"status\":200,\"timeTaken\":87}","timestamp":"2019-07-30 18:08:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-report-profil-pinjaman\",\"status\":200,\"timeTaken\":96}","timestamp":"2019-07-30 18:11:11"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/selectDataReporting\",\"timeTaken\":7}","timestamp":"2019-07-30 18:57:10"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"timeTaken\":18}","timestamp":"2019-07-30 18:57:27"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":136}","timestamp":"2019-07-30 18:57:44"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":74}","timestamp":"2019-07-30 18:59:57"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":137}","timestamp":"2019-07-30 19:05:35"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":3}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":64}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":10}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"timeTaken\":11}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":47}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":1}","timestamp":"2019-07-30 19:08:18"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/getNewLoans\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-30 19:08:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/get-variable-dashboard\",\"status\":200,\"timeTaken\":12}","timestamp":"2019-07-30 19:08:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/\",\"timeTaken\":1}","timestamp":"2019-07-30 19:08:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/projectImage/projectImage_putbor2597_1.jpeg\",\"timeTaken\":0}","timestamp":"2019-07-30 19:08:21"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/validate-captcha\",\"status\":200,\"timeTaken\":261}","timestamp":"2019-07-30 19:08:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":26}","timestamp":"2019-07-30 19:08:32"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"timeTaken\":2}","timestamp":"2019-07-30 19:08:34"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":15}","timestamp":"2019-07-30 19:08:39"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/funding/get-funding\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-30 19:08:40"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"decoded","timestamp":"2019-07-30 19:08:40"}
+{"received":1564488520887,"remoteAddress":"127.0.0.1","remotePort":57317,"referrer":"http://127.0.0.1:4200/admin/dashboard","host":"localhost:3000","hostname":"localhost","id":"1564488520887:DANONs-MacBook-Pro-2.local:5430:jypryeb9:10021","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-30 19:08:40"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"expired date: 1564499319000","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":40}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/investor/get-investor\",\"status\":200,\"timeTaken\":21}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":20}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/borrower/get-borrower\",\"status\":200,\"timeTaken\":34}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/loan/get-loans\",\"status\":200,\"timeTaken\":11}","timestamp":"2019-07-30 19:08:40"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":8}","timestamp":"2019-07-30 19:08:40"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"decoded","timestamp":"2019-07-30 19:08:45"}
+{"received":1564488525005,"remoteAddress":"127.0.0.1","remotePort":57319,"referrer":"http://127.0.0.1:4200/admin/reporting","host":"localhost:3000","hostname":"localhost","id":"1564488525005:DANONs-MacBook-Pro-2.local:5430:jypryeb9:10031","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-30 19:08:45"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-30 19:08:45"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"expired date: 1564499319000","timestamp":"2019-07-30 19:08:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":6}","timestamp":"2019-07-30 19:08:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":17}","timestamp":"2019-07-30 19:08:45"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:09:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":79}","timestamp":"2019-07-30 19:09:05"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_2018.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-30 19:09:09"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/select-data-reporting\",\"status\":200,\"timeTaken\":61}","timestamp":"2019-07-30 19:09:31"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Reporting/formulir_3C_2019.xlsx\",\"status\":200,\"timeTaken\":1}","timestamp":"2019-07-30 19:09:34"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"decoded","timestamp":"2019-07-30 19:09:59"}
+{"received":1564488599977,"remoteAddress":"127.0.0.1","remotePort":57344,"referrer":"http://127.0.0.1:4200/admin/aging","host":"localhost:3000","hostname":"localhost","id":"1564488599977:DANONs-MacBook-Pro-2.local:5430:jypryeb9:10039","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-30 19:09:59"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-30 19:09:59"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"expired date: 1564499319000","timestamp":"2019-07-30 19:09:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-30 19:09:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-30 19:09:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"status\":200,\"timeTaken\":0}","timestamp":"2019-07-30 19:11:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":2}","timestamp":"2019-07-30 19:11:06"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":2}","timestamp":"2019-07-30 19:11:26"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":2}","timestamp":"2019-07-30 19:11:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"timeTaken\":3}","timestamp":"2019-07-30 19:12:08"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"status\":200,\"timeTaken\":10}","timestamp":"2019-07-30 19:19:41"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"status\":200,\"timeTaken\":2}","timestamp":"2019-07-30 19:19:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"status\":200,\"timeTaken\":9}","timestamp":"2019-07-30 19:21:36"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Aging/Aging__7-10-%202019.xlsx\",\"timeTaken\":3}","timestamp":"2019-07-30 19:21:36"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"decoded","timestamp":"2019-07-30 19:28:12"}
+{"received":1564489692331,"remoteAddress":"127.0.0.1","remotePort":57658,"referrer":"http://127.0.0.1:4200/admin/aging","host":"localhost:3000","hostname":"localhost","id":"1564489692331:DANONs-MacBook-Pro-2.local:5549:jypsj46p:10002","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-30 19:28:12"}
+{"level":"info","message":"request header user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0","timestamp":"2019-07-30 19:28:12"}
+{"authId":36,"email":"handle.transaction@danon.id","userCode":"admhan401","role":6,"iat":1564488519,"exp":1564499319,"level":"info","message":"expired date: 1564499319000","timestamp":"2019-07-30 19:28:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-remaining-time-token\",\"status\":200,\"timeTaken\":28}","timestamp":"2019-07-30 19:28:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/get-user-detail\",\"status\":200,\"timeTaken\":74}","timestamp":"2019-07-30 19:28:12"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/get-file-reporting\",\"status\":200,\"timeTaken\":5}","timestamp":"2019-07-30 19:28:17"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/utils/upload/Aging/Aging__7-10-%202019.xlsx\",\"timeTaken\":2}","timestamp":"2019-07-30 19:28:17"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-collateral-type\",\"timeTaken\":7}","timestamp":"2019-07-31 00:10:28"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-collateral-type\",\"timeTaken\":3}","timestamp":"2019-07-31 00:10:55"}
+{"event":"log","timestamp":1564506726923,"tags":["connection","client","error"],"pid":8094,"error":{"bytesParsed":0,"code":"HPE_INVALID_METHOD","rawPacket":{"type":"Buffer","data":[22,3,1,1,1,1,0,0,253,3,3,39,254,247,204,96,255,223,167,231,17,96,201,183,14,160,97,103,90,220,53,24,239,193,128,171,246,85,172,235,169,182,205,0,0,110,192,47,192,43,192,48,192,44,0,158,192,39,0,103,192,40,0,107,192,36,192,20,192,10,0,165,0,163,0,161,0,159,0,106,0,105,0,104,0,57,0,56,0,55,0,54,192,50,192,46,192,42,192,38,192,15,192,5,0,157,0,61,0,53,192,35,192,19,192,9,0,164,0,162,0,160,0,64,0,63,0,62,0,51,0,50,0,49,0,48,192,49,192,45,192,41,192,37,192,14,192,4,0,156,0,60,0,47,0,255,1,0,0,102,0,0,0,14,0,12,0,0,9,108,111,99,97,108,104,111,115,116,0,11,0,4,3,0,1,2,0,10,0,28,0,26,0,23,0,25,0,28,0,27,0,24,0,26,0,22,0,14,0,13,0,11,0,12,0,9,0,10,0,35,0,0,0,13,0,32,0,30,6,1,6,2,6,3,5,1,5,2,5,3,4,1,4,2,4,3,3,1,3,2,3,3,2,1,2,2,2,3,51,116,0,0]}}}
+{"event":"log","timestamp":1564506777007,"tags":["connection","client","error"],"pid":8094,"error":{"bytesParsed":0,"code":"HPE_INVALID_METHOD","rawPacket":{"type":"Buffer","data":[22,3,1,1,1,1,0,0,253,3,3,164,200,39,212,11,84,142,117,67,224,152,110,61,254,84,138,126,155,185,44,145,225,121,127,248,194,172,176,34,34,89,126,0,0,110,192,47,192,43,192,48,192,44,0,158,192,39,0,103,192,40,0,107,192,36,192,20,192,10,0,165,0,163,0,161,0,159,0,106,0,105,0,104,0,57,0,56,0,55,0,54,192,50,192,46,192,42,192,38,192,15,192,5,0,157,0,61,0,53,192,35,192,19,192,9,0,164,0,162,0,160,0,64,0,63,0,62,0,51,0,50,0,49,0,48,192,49,192,45,192,41,192,37,192,14,192,4,0,156,0,60,0,47,0,255,1,0,0,102,0,0,0,14,0,12,0,0,9,108,111,99,97,108,104,111,115,116,0,11,0,4,3,0,1,2,0,10,0,28,0,26,0,23,0,25,0,28,0,27,0,24,0,26,0,22,0,14,0,13,0,11,0,12,0,9,0,10,0,35,0,0,0,13,0,32,0,30,6,1,6,2,6,3,5,1,5,2,5,3,4,1,4,2,4,3,3,1,3,2,3,3,2,1,2,2,2,3,51,116,0,0]}}}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/auth/login\",\"status\":200,\"timeTaken\":93}","timestamp":"2019-07-31 00:13:38"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564506818,"exp":1564517618,"level":"info","message":"decoded","timestamp":"2019-07-31 00:14:49"}
+{"received":1564506889486,"remoteAddress":"127.0.0.1","remotePort":59168,"referrer":"","host":"localhost:3000","hostname":"localhost","id":"1564506889486:DANONs-MacBook-Pro-2.local:8094:jyq0sf56:10003","acceptEncoding":"gzip","cors":{"isOriginMatch":true},"responded":0,"level":"info","message":"request info","timestamp":"2019-07-31 00:14:49"}
+{"level":"info","message":"request header user-agent: PostmanRuntime/7.15.0","timestamp":"2019-07-31 00:14:49"}
+{"authId":1,"email":"admin@danaonline.id","userCode":"admadm1697","role":3,"iat":1564506818,"exp":1564517618,"level":"info","message":"expired date: 1564517618000","timestamp":"2019-07-31 00:14:49"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/admin/get-collateral-type\",\"status\":200,\"timeTaken\":13}","timestamp":"2019-07-31 00:14:49"}
+{"level":"error","message":"Unhandled Rejection at: {}","timestamp":"2019-07-31 11:13:59"}
+{"level":"info","message":"onPreResponse: {\"url\":\"/api/reporting/generate-reporting-every-year\",\"status\":200,\"timeTaken\":148}","timestamp":"2019-07-31 11:16:31"}
