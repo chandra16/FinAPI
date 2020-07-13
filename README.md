@@ -15,3 +15,4 @@ npm run dev
 Environment available:
 local: use to run the web-api in local (please check the database configuration in local, and adjust accordingly).
 dev: use for server development
+# FinAPI
