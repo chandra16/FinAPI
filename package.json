@@ -59,6 +59,6 @@
     "word2pdf": "^0.0.1-security",
     "xlsx": "^0.14.4",
     "xlsx-template": "^0.5.0",
-    "yarn": "^1.10.1"
+    "yarn": "^1.22.0"
   }
 }
