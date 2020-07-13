@@ -2,7 +2,7 @@ const _ = require('lodash');
 const Joi = require('joi');
 const Boom = require('boom');
 const AccountingHelper = require('../helper/accountingHelper');
-const Word2pdf = require('word2pdf');
+const Word2pdf = '';
 const Fs = require('fs');
 
 const getAccount = async (request, h) => {

@@ -8,7 +8,7 @@ const AuthHelper = require('./authHelper');
 const Logger = require('./logger');
 const Fs = require('fs');
 const FileHelper = require('./fileHelper');
-const Word2pdf = require('word2pdf');
+const Word2pdf = '';
 
 const insertAsset = (userCode, virtualAcc, accountId, roleId) => {
     return new Promise((resolve, reject) => {

@@ -7,7 +7,7 @@ const Os = require('os');
 const DocumentData = require('../model/documentData.js');
 const Logger = require('./logger');
 const DigiSign = require('../service/digiSign');
-const Word2pdf = require('word2pdf');
+const Word2pdf = '';
 const UtilsHelper = require('../helper/utilsHelper');
 
 const generatePksFileOld = (templateFile, type) => {

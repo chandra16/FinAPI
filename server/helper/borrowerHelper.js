@@ -5,7 +5,7 @@ const DocumentData = require('../model/documentData');
 const AuthHelper = require('./authHelper');
 const FileHelper = require('./fileHelper');
 const Fs = require('fs');
-const Word2pdf = require('word2pdf');
+const Word2pdf = '';
 const Logger = require('./logger');
 
 const insertBorrowerData = function (
